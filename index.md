@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: /hero.png
 tagline: Documentation for CraftWorldXL
 actionText: Quick Start →
 actionLink: /docs/
