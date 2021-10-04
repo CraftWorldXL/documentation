@@ -9,6 +9,11 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
+  /**
+   * Temporarily here until a custom domain is implemented
+   * Ref：https://v1.vuepress.vuejs.org/config/#base
+   */
+  base: '/documentation/',
   
 
   /**
