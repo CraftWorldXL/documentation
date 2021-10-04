@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Documentation for youtube-dl_GUI
+tagline: Documentation for CraftWorldXL
 actionText: Quick Start →
 actionLink: /docs/
 features:
@@ -11,5 +11,5 @@ features:
   details: Feature 2 Description
 - title: Feature 3 Title
   details: Feature 3 Description
-footer: Made by JohnB with ❤️
+footer: Made by CraftWorldXL
 ---
