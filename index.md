@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: hero.png
 tagline: Documentation for CraftWorldXL
 actionText: Quick Start →
 actionLink: /docs/
