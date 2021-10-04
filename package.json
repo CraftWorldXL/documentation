@@ -1,0 +1,19 @@
+{
+  "name": "youtube-dl_GUI-docs",
+  "version": "0.0.1",
+  "description": "Documentation for youtube-dl_GUI",
+  "main": "index.js",
+  "authors": {
+    "name": "JohnB",
+    "email": "notgonnatellyou@haha.com"
+  },
+  "repository": "youtube-dl_GUI/youtube-dl_GUI-docs",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
